@@ -1,8 +1,8 @@
 ------
 # __Denis Kozich__ 
-------
+
 ## *My Contact Info*
-------
+
 + Location: Belarus, Minsk
 + Phone: +375 (29) 515-90-79
 + E-mail: kodenis518@gmail.com
@@ -10,7 +10,7 @@
 + Telegram: @FayeRaegan
 ------
 ## *About Me*
-------
+
 I'm 27 years old. My current job is mine design technic and unfortunately for me,
 it hasn't neither development possability nor sufficient income level nor even 
 interes for me. Therefore, I am realy intended to get a craft that can provide me 
@@ -29,20 +29,19 @@ Now I start JS-FrontEnd cours and my goal is:
 
 ------
 ## *Soft Skills*
-------
+
 
 ------
 ## *Hard Skills*
-------
+
 
 ------
 ## *Code Examples*
-------
+
 
 ------
 ### *Education*
-------
+
 
 ------
 ### *Languages*
-------
