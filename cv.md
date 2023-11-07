@@ -29,19 +29,41 @@ Now I start JS-FrontEnd cours and my goal is:
 
 ------
 ## *Soft Skills*
-
+  * Perseverance
+  * Fast learner
+  * Wide CS background
+  * Frendly and calm
+  * Analytical mind
 
 ------
 ## *Hard Skills*
-
-
+1. Server side:
+    - C lang (Syntax, Fundamentals and standart library)
+    - Linux and Bash (base command for file-system navigate)
+    - Algorithm and data structure
+    - Python (Syntax, Fundamentals)
+2. Bare metal:
+    - Arduino C (C++ & Wiring)
+3. Client side:
+    - HTML & CSS (BEM)
+    - JavaScript (Fundamentals and DOM)
+    - Figma
+4. ToolChain:
+    - VS Code
+    - GNU Linux Ubuntu
+    - Git/GitHub
 ------
 ## *Code Examples*
 
 
 ------
 ### *Education*
-
+  * Belarusian States Technological University
+    - Mechanical enginer
+  * RS School
+    - Frontend (in process)
 
 ------
 ### *Languages*
+  * Russian - native speeker
+  * English - A2 (maybe B1) 
