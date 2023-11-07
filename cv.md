@@ -12,16 +12,16 @@
 ## *About Me*
 
 I'm 27 years old. My current job is mine design technic and unfortunately for me,
-it hasn't neither development possability nor sufficient income level nor even 
-interes for me. Therefore, I am realy intended to get a craft that can provide me 
-intresting and complex job tasks, and where my wealth level will depend on my skills.
+it hasn't neither development possibility nor sufficient income level nor even 
+interest for me. Therefore, I am really intended to get a craft that can provide me 
+interesting and complex job tasks, and where my wealth level will depend on my skills.
 At this moment I already did code for about one year but I did it as a hobby. I
 tried several technologies for dive deeper on how computers work and what I can do
 with their power. Computers inspire me much.
 
-Now I start JS-FrontEnd cours and my goal is:
+Now I start JS-Front-End course and my goal is:
 
-1. Get knowleges and skills that allow me to get a job as a software front-end developer
+1. Get knowledge and skills that allow me to get a job as a software front-end developer
 2. Turn my hobby in my new profession
 3. Double increase my income next year
 
@@ -32,7 +32,7 @@ Now I start JS-FrontEnd cours and my goal is:
   * Perseverance
   * Fast learner
   * Wide CS background
-  * Frendly and calm
+  * Friendly and calm
   * Analytical mind
 
 ------
@@ -129,7 +129,7 @@ int main(void)
 	return 0;
 }
 ```
-3. I cannot place here huge pices of code
+3. I cannot place here huge pieces of code
    but here is a link on my github repo,
    where i write browser version of "Live"
    cell automate invented by John Convay.
