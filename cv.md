@@ -55,6 +55,88 @@ Now I start JS-FrontEnd cours and my goal is:
 ------
 ## *Code Examples*
 
+1. Here I create algorithm that can count prime numbers via Python.
+
+```
+    mises = []
+    matches =[]
+    digits = [ 3,2,4, 6, 7, 8, 9]
+
+    def itter(num):
+        [cach(n) for n in range(num + 1)]
+        del(matches[0])
+
+    def attempt_cach(num, list_):
+        '''Проверяет наличие делимости на одно из чисел последовательности'''
+        m = [elm for elm in list_ if num%elm==0]
+        if len(m) < 2 :
+            matches.append(num)
+        else:
+            mises.append(num)
+
+    def cach(num):
+        num_1 = str(num)
+        if num > 10 and num_1[-1] not in "1379" :
+            mises.append(num)
+        elif num < 10:
+            attempt_cach(num, digits)
+        else:
+            attempt_cach(num, matches)
+
+    numer = 1_00
+    itter(numer)
+
+    print(matches)
+    print("Всего {0} простых чисел до числа {1}".format(len(matches), numer))
+```
+
+2. In this fragment of code written on C language I perform liked list
+   with helper pointer mechanic
+
+```
+	/*	FIFO_1lst.programm	*/
+#include <stdio.h>
+#include <stdlib.h>
+#define HELLO "\n\tНапиши что-нибудь\n"
+
+typedef struct node
+{
+	int data;
+	struct node *next;
+}node;
+
+int main(void)
+{
+	node *first=NULL, *last=NULL, *tmp;
+	int c;
+	printf(HELLO);
+	while((c = getchar()) != EOF)
+	{
+		if(!first)
+			last = first = malloc(sizeof(node));
+		else
+			last = last->next = malloc(sizeof(node));
+		last->data = c;
+		last->next = NULL;
+	}
+	tmp = first;
+	while(tmp)
+	{
+		printf("%c", tmp->data);
+		tmp = tmp->next;
+	}
+	printf("\n");
+	return 0;
+}
+```
+3. I cannot place here huge pices of code
+   but here is a link on my github repo,
+   where i write browser version of "Live"
+   cell automate invented by John Convay.
+   I use HTML CSS and JS for it.
+
+   https://deny-5.github.io/The_Life-game_by_J_Convay/ 
+
 
 ------
 ### *Education*
